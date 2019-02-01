@@ -560,22 +560,22 @@
 <param name="B2_6L" type="up"> </param>
 </blind>
 
-<blind name="AND" start="true" time="0">
+<blind name="ANDINT" start="true" time="0">
 <param name="GIS1" type="out"> </param>
 <param name="BarsDU:A3VS01IDU" type="up"> </param>
 <param name="Con16" type="up"> </param>
 </blind>
-<blind name="AND" start="true" time="0">
+<blind name="ANDINT" start="true" time="0">
 <param name="GBB1" type="out"> </param>
 <param name="BarsDU:A1VS01IDU" type="up"> </param>
 <param name="Con16" type="up"> </param>
 </blind>
-<blind name="AND" start="true" time="0">
+<blind name="ANDINT" start="true" time="0">
 <param name="GIS2" type="out"> </param>
 <param name="BarsDU:B3VS01IDU" type="up"> </param>
 <param name="Con16" type="up"> </param>
 </blind>
-<blind name="AND" start="true" time="0">
+<blind name="ANDINT" start="true" time="0">
 <param name="GBB2" type="out"> </param>
 <param name="BarsDU:B1VS01IDU" type="up"> </param>
 <param name="Con16" type="up"> </param>
