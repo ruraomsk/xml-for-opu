@@ -448,7 +448,8 @@
 <param name="BarsDU:B2VC01RDU" type="up"> </param>
 <param name="Con20" type="up"> </param>
 </blind>
-<blind name="IFLT" start="true" time="0">
+
+<blind name="IFGT" start="true" time="0">
 <param name="L38_5L" type="out"> </param>
 <param name="TRUE" type="up"> </param>
 <param name="BarsDU:B2VC01RDU" type="up"> </param>
