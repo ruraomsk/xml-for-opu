@@ -400,7 +400,7 @@
 <param name="L44_10R" type="out"> </param>
 <param name="BarsDU:R5VS12LDU" type="up"> </param>
 </blind>
-<blind name="BLINK" start="true" time="0">
+<blind name="BLINKINT" start="true" time="0">
 <param name="L42_10R" type="out"> </param>
 <param name="BarsDU:R5VS01IDU" type="up"> </param>
 <param name="BarsDU:R5VS01IDU" type="up"> </param>
@@ -426,7 +426,7 @@
 <param name="BarsDU:R3VS12LDU" type="up"> </param>
 </blind>
 -->
-<blind name="BLINK" start="true" time="0">
+<blind name="BLINKINT" start="true" time="0">
 	<param name="L42_11R" type="out"> </param>
 	<param name="BarsDU:R3VS01IDU" type="up"> </param>
 	<param name="BarsDU:R3VS01IDU" type="up"> </param>
