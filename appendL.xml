@@ -148,7 +148,7 @@
 	<param name="F4_5L" type="up"> </param>
 	<param name="BarsDU:R0MW15IP1" type="out"> </param>
 </blind>
-<blind name="KEY" start="true" time="0">
+<blind name="SWITCH" start="true" time="0">
 	<param name="F30_5L" type="up"> </param>
 	<param name="BarsDU:R0MW11IP1" type="out"> </param>
 </blind>
