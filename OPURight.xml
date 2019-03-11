@@ -6,22 +6,22 @@
 	<Devices>
 		<device name="BarsDU" description="БАРС ДУ" step="200"
 				type="RezCanal"
-				ip="192.168.10.35" port="502" 
-				ipdub="192.168.10.35" portdub="502"
+				ip="192.168.10.50" port="502" 
+				ipdub="192.168.10.150" portdub="502"
 				timeout="600"
 				load="du.xml"> 
 		</device>
 		<device name="Baz1" description="БАРС БАЗ1" step="200"
 				type="RezCanal"
-				ip="192.168.10.35" port="503" 
-				ipdub="192.168.10.35" portdub="503"
+				ip="192.168.10.52" port="503" 
+				ipdub="192.168.10.152" portdub="503"
 				timeout="600"
 				load="baz1.xml"> 
 		</device>
 		<device name="Baz2" description="БАРС БАЗ2" step="200"
 				type="RezCanal"
-				ip="192.168.10.35" port="504" 
-				ipdub="192.168.10.35" portdub="504"
+				ip="192.168.10.54" port="504" 
+				ipdub="192.168.10.154" portdub="504"
 				timeout="600"
 				load="baz2.xml"> 
 		</device>
