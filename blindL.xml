@@ -456,12 +456,12 @@
 <param name="Con19" type="up"> </param>
 </blind>
 
-<blind name="AND" start="true" time="0">
+<blind name="ANDINT" start="true" time="0">
 <param name="L43_2L" type="out"> </param>
 <param name="BarsDU:A1VS01IDU" type="up"> </param>
 <param name="Con4" type="up"> </param>
 </blind>
-<blind name="AND" start="true" time="0">
+<blind name="ANDINT" start="true" time="0">
 <param name="L43_3L" type="out"> </param>
 <param name="BarsDU:A2VS01IDU" type="up"> </param>
 <param name="Con4" type="up"> </param>
@@ -470,12 +470,12 @@
 <param name="L43_4L" type="out"> </param>
 <param name="BarsDU:A2VS32LDU" type="up"> </param>
 </blind>
-<blind name="AND" start="true" time="0">
+<blind name="ANDINT" start="true" time="0">
 <param name="L46_2L" type="out"> </param>
 <param name="BarsDU:B1VS01IDU" type="up"> </param>
 <param name="Con4" type="up"> </param>
 </blind>
-<blind name="AND" start="true" time="0">
+<blind name="ANDINT" start="true" time="0">
 <param name="L46_3L" type="out"> </param>
 <param name="BarsDU:B2VS01IDU" type="up"> </param>
 <param name="Con4" type="up"> </param>

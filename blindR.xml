@@ -475,7 +475,7 @@
 <param name="B12_11R" type="up"> </param>
 <param name="NAZADR" type="out"> </param>
 </blind>
-<blind name="AND" start="true" time="0">
+<blind name="ANDINT" start="true" time="0">
 <param name="GAZ2" type="out"> </param>
 <param name="BarsDU:B8VS01IDU" type="up"> </param>
 <param name="Con16" type="up"> </param>
