@@ -152,4 +152,12 @@
 	<param name="F30_5L" type="up"> </param>
 	<param name="BarsDU:R0MW11IP1" type="out"> </param>
 </blind>
+<blind name="SWITCH" start="true" time="0">
+	<param name="F30_5L" type="up"> </param>
+	<param name="Baz1:R0MW11IP1" type="out"> </param>
+</blind>
+<blind name="SWITCH" start="true" time="0">
+	<param name="F30_5L" type="up"> </param>
+	<param name="Baz2:R0MW11IP1" type="out"> </param>
+</blind>
 </Blinds>
