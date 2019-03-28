@@ -422,6 +422,15 @@
 <param name="BarsDU:R0MD34LP1" type="out"> </param>
 </blind>
 <blind name="SET" start="true" time="0">
+<param name="B12_2R" type="up"> </param>
+<param name="Baz1:R0MD34LP1" type="out"> </param>
+</blind>
+<blind name="SET" start="true" time="0">
+<param name="B12_2R" type="up"> </param>
+<param name="Baz2:R0MD34LP1" type="out"> </param>
+</blind>
+
+<blind name="SET" start="true" time="0">
 <param name="L44_11R" type="out"> </param>
 <param name="BarsDU:R3VS12LDU" type="up"> </param>
 </blind>
