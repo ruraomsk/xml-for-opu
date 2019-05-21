@@ -8,21 +8,21 @@
 				type="RezCanal"
 				ip="192.168.10.50" port="5002" 
 				ipdub="192.168.10.150" portdub="5002"
-				timeout="500"
+				timeout="300"
 				load="du.xml"> 
 		</device>
 		<device name="Baz1" description="БАРС БАЗ1" step="200"
 				type="RezCanal"
 				ip="192.168.10.52" port="5002" 
 				ipdub="192.168.10.152" portdub="5002"
-				timeout="500"
+				timeout="200"
 				load="baz1.xml"> 
 		</device>
 		<device name="Baz2" description="БАРС БАЗ2" step="200"
 				type="RezCanal"
 				ip="192.168.10.54" port="5002" 
 				ipdub="192.168.10.154" portdub="5002"
-				timeout="500"
+				timeout="200"
 				load="baz2.xml"> 
 		</device>
 		<device name="CTRL" description="Контроль Серверов" step="200"
