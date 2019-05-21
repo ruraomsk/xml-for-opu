@@ -41,7 +41,7 @@
 	<param name="Baz1:R0VN01RZ1" type="up"> </param>
 	<param name="Baz2:R0VN01RZ2" type="up"> </param>
 </blind>
-<blind name="FloatStr" start="true" time="0">
+<blind name="FloatLong" start="true" time="0">
 	<param name="POWER1" type="up"> </param>
 	<param name="FALSE" type="up"> </param>
 	<param name="FD23" type="out"> </param>
@@ -55,7 +55,7 @@
 	<param name="Baz1:R0VN02RZ1" type="up"> </param>
 	<param name="Baz2:R0VN02RZ2" type="up"> </param>
 </blind>
-<blind name="FloatStr" start="true" time="0">
+<blind name="FloatLong" start="true" time="0">
 	<param name="POWER2" type="up"> </param>
 	<param name="FALSE" type="up"> </param>
 	<param name="FD24" type="out"> </param>
@@ -69,7 +69,7 @@
 	<param name="Baz1:R0VN03RZ1" type="up"> </param>
 	<param name="Baz2:R0VN03RZ2" type="up"> </param>
 </blind>
-<blind name="FloatStr" start="true" time="0">
+<blind name="FloatLong" start="true" time="0">
 	<param name="POWER3" type="up"> </param>
 	<param name="FALSE" type="up"> </param>
 	<param name="FD25" type="out"> </param>
@@ -83,7 +83,7 @@
 	<param name="Baz1:R0VN04RZ1" type="up"> </param>
 	<param name="Baz2:R0VN04RZ2" type="up"> </param>
 </blind>
-<blind name="FloatStr" start="true" time="0">
+<blind name="FloatLong" start="true" time="0">
 	<param name="POWER4" type="up"> </param>
 	<param name="FALSE" type="up"> </param>
 	<param name="FD26" type="out"> </param>
