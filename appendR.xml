@@ -9,6 +9,13 @@
 <blind name="STATUS" start="true" time="0">
 	<param name="CTRL:OPURERROR" type="out"> </param>
 </blind>
+<blind name="APXIE" start="true" time="0">
+	<param name="CTRL:APXIER" type="out"> </param>
+</blind>
+<blind name="APXOE" start="true" time="0">
+	<param name="CTRL:APXOER" type="out"> </param>
+</blind>
+
 <blind name="ORINT" start="true" time="0">
 	<param name="Baz1:R0VZ05UZ1" type="up"> </param>
 	<param name="Baz2:R0VZ05UZ2" type="up"> </param>
