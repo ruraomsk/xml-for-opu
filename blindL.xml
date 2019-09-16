@@ -66,18 +66,30 @@
 </blind>
 <blind name="OR" start="true" time="0">
 <param name="L8_5L" type="out"> </param>
-<param name="Baz1:R7II73LZ1" type="up"> </param>
-<param name="Baz2:R7II73LZ2" type="up"> </param>
+<param name="Baz1:R7II74LZ1" type="up"> </param>
+<param name="Baz1:R7II75LZ1" type="up"> </param>
+<param name="Baz1:R7II76LZ1" type="up"> </param>
+<param name="Baz2:R7II74LZ2" type="up"> </param>
+<param name="Baz2:R7II75LZ2" type="up"> </param>
+<param name="Baz2:R7II76LZ2" type="up"> </param>
 </blind>
 <blind name="OR" start="true" time="0">
 <param name="L8_4L" type="out"> </param>
 <param name="Baz1:R7II71LZ1" type="up"> </param>
+<param name="Baz1:R7II72LZ1" type="up"> </param>
+<param name="Baz1:R7II73LZ1" type="up"> </param>
 <param name="Baz2:R7II71LZ2" type="up"> </param>
+<param name="Baz2:R7II72LZ2" type="up"> </param>
+<param name="Baz2:R7II73LZ2" type="up"> </param>
 </blind>
 <blind name="OR" start="true" time="0">
 <param name="L9_4L" type="out"> </param>
+<param name="Baz1:R7II71LZ1" type="up"> </param>
 <param name="Baz1:R7II72LZ1" type="up"> </param>
+<param name="Baz1:R7II73LZ1" type="up"> </param>
+<param name="Baz2:R7II71LZ2" type="up"> </param>
 <param name="Baz2:R7II72LZ2" type="up"> </param>
+<param name="Baz2:R7II73LZ2" type="up"> </param>
 </blind>
 
 <blind name="OR" start="true" time="0">
